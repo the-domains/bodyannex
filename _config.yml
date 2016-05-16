@@ -1,0 +1,28 @@
+name: bodyannex
+favicon: null
+layout_spectrum: 0.1647953693754971
+typography_spectrum: 0.36715293233282864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6106179694179446
+  lightness: 0.416644248412922
+  saturation: 0.20946205570362508
+  rhythmicContrast: 0.6315018243622035
+purpose: []
